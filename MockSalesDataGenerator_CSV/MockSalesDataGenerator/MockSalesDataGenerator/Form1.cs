@@ -265,7 +265,7 @@ namespace MockSalesDataGenerator
                         int total = cart.Sum(x => x.Price);
 
                         //カレントディレクトリ直下に、SalesData.csvがない場合、ヘッダーを書き込む。
-                        if (!File.Exists("SalesData.csv"))
+                        if (!File.Exists(CsvOutputfolderPath + "\\" + "SalesData.csv"))
                         {
                             //カレントディレクトリ直下に、CSVファイルを作成、または追記する。
                             using (StreamWriter sw = new StreamWriter(CsvOutputfolderPath + "\\" + "SalesData.csv", true, Encoding.UTF8))
