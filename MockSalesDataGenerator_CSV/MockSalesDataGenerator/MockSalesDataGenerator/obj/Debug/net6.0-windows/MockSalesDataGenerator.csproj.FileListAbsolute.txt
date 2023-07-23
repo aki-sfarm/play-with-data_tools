@@ -1,0 +1,17 @@
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\bin\Debug\net6.0-windows\MockSalesDataGenerator.exe
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\bin\Debug\net6.0-windows\MockSalesDataGenerator.deps.json
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\bin\Debug\net6.0-windows\MockSalesDataGenerator.runtimeconfig.json
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\bin\Debug\net6.0-windows\MockSalesDataGenerator.dll
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\bin\Debug\net6.0-windows\MockSalesDataGenerator.pdb
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\MockSalesDataGenerator.csproj.AssemblyReference.cache
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\MockSalesDataGenerator.Form1.resources
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\MockSalesDataGenerator.csproj.GenerateResource.cache
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\MockSalesDataGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\MockSalesDataGenerator.AssemblyInfoInputs.cache
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\MockSalesDataGenerator.AssemblyInfo.cs
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\MockSalesDataGenerator.csproj.CoreCompileInputs.cache
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\MockSalesDataGenerator.dll
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\refint\MockSalesDataGenerator.dll
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\MockSalesDataGenerator.pdb
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\MockSalesDataGenerator.genruntimeconfig.cache
+C:\Projects\play-with-data_tools\MockSalesDataGenerator_CSV\MockSalesDataGenerator\MockSalesDataGenerator\obj\Debug\net6.0-windows\ref\MockSalesDataGenerator.dll
